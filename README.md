@@ -1,7 +1,7 @@
 
 <html>
 	<head>
-		<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+		<link type="text/css" rel="css" href="css.css"/>
 		<title>Incremental Game</title>
 	</head>
 	<body>
